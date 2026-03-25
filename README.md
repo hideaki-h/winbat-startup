@@ -45,5 +45,3 @@ exe_list=%exe_list%;c:\windows\notepad.exe
 下記ファイルをメモ帳等で開き、必要に応じてバッチを記述します。
 - [コンピューター名]]\startup.cmd
 
-
-https://nachide-org.awsapps.com/auth/?#invite:token=11z3_V2PpZwxnK_LJv-SekqztDQYIe5znaFqI4PxLB9JVuYdhBdJjeVBECGltET1GtEhisyTL2XMxT8n1ZRAE4tKtg7S06jWPEc5SZoBobsidDB4CCEPLriJmQJ2VW-NkOoG0qFcL_w9s5FKv5sGXLYcuUKxd0hRrO9AL__TU1NMfQXQwykA2hWfD-mWsimN5JiUAe1mAqnBffWH8&redirect_uri=https://clients.amazonworkspaces.com/&client_id=0ef7da453c02806b
